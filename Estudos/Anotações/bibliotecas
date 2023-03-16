@@ -1,0 +1,6 @@
+# string.h :
+  Biblioteca para trabalhar com Strings
+
+# locale.h :
+  Biblioteca para usar acento em strings.
+  Precisa configurar o setlocale

@@ -1,0 +1,37 @@
+# string.h :
+  Biblioteca para trabalhar com Strings
+
+# locale.h :
+  Biblioteca para usar acento em strings.
+  Precisa configurar o setlocale
+
+STRCPY(<DESTINO>, <ORIGEM>); :
+  Alterar conteudo entre strings, pode usar o = igual em python e javascript.
+
+STRCAT(<DESTINO>, <ORIGEM>); :
+
+STRCMP(<STRING1>, <STRING2>); :
+  Compara duas strings, tipo um if, resultando um 0 ou 1.
+  0 srings são iguais, 1 strings são diferentes
+
+STRLEN(<STRING>);
+  Mostra o tamanho da string
+
+%s
+  Isso é para entrada ou saida de dados do tipo char com mais de um caracter, vale embrar que na declaração da variavel é CHAR.
+
+fflush(stdin);
+  Limpa a memoria
+
+stdin
+  Entrada de dados padrão
+
+puts;
+  Printa variavel sem precisar declarar tipo
+
+# define <constante>[tamanho do vetor];
+  Cria uma constante que não pode ser alterada.
+
+
+
+
